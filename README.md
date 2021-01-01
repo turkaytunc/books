@@ -23,6 +23,7 @@
   - Head First Design Patterns by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
   - Refactoring: Improving the Design of Existing Code by Martin Fowler
   - Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+  - CSS Pocket Reference: Visual Presentation for the Web by Eric A. Meyer
 
 ## Will Read
 
