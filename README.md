@@ -10,10 +10,10 @@
 - Animal Farm by George Orwell
 - The Great Gatsby by F. Scott Fitzgerald
 - The Book Thief by Markus Zusak
-- The kite runner by Khaled hosseini
-- fahrenheit 451 by ray bradbury
-- the hitchhiker's guide to the galaxy by douglas adams
-- Les misarables by victor hugo
+- The Kite Runner by Khaled Hosseini
+- Fahrenheit 451 by Ray Bradbury
+- The Hitchhiker's Guide to the Galaxy by Douglas Adams
+- Les misarables by Victor Hugo
 - Brave New World by aldous huxley
-- Crime and Punishment by fyodor dostoyevsky
-- anna karenina by leo tolstoy
+- Crime and Punishment by Fyodor Dostoyevsky
+- Anna Karenina by Leo Tolstoy
