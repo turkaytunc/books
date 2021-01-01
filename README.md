@@ -2,7 +2,14 @@
 
 ## Already Read
 
+### Novel
+
 - Cosmos by Carl Sagan
+
+### Programming
+
+- You Don't Know Js by Kyle Simpson
+- Adaptive Code: Agile Coding with Design Patterns and SOLID Principles by Gary McLean Hall
 
 ## Will Read
 
