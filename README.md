@@ -40,6 +40,8 @@
   - Brave New World by aldous huxley
   - Crime and Punishment by Fyodor Dostoyevsky
   - Anna Karenina by Leo Tolstoy
+  - A Brief History of Time by Stephen Hawking
+  - Pale Blue Dot by Carl Sagan
 
 - **Programming**
 
