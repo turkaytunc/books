@@ -42,3 +42,9 @@
   - Anna Karenina by Leo Tolstoy
 
 - **Programming**
+
+  - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker by Frank Zammetti
+  - Mastering JavaScript Functional Programming by Federico Kereki
+  - CSS in Depth by Keith J. Grant
+  - Dependency Injection Principles, Practices, and Patterns by Mark Seemann, Steven van Deursen
+  - Refactoring UI by Steve Schoger, Adam Wathan
