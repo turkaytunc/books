@@ -1,6 +1,6 @@
 # Books to read
 
-## Read
+## Already Read
 
 - Cosmos by Carl Sagan
 
