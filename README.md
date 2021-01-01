@@ -5,6 +5,12 @@
 - **Novel**
 
   - Cosmos by Carl Sagan
+  - Notes from Underground by Fyodor Dostoyevsky
+  - The White Ship by Chingiz Aitmatov
+  - Nutuk by Mustafa Kemal Atatürk
+  - The Art of War by Sun Tzu
+  - Finland the country of white lilies by Grigory Spiridonovich Petrov
+  - A Confession by Leo Tolstoy
 
 - **Programming**
   - You Don't Know Js by Kyle Simpson
