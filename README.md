@@ -2,7 +2,7 @@
 
 ## Already Read
 
-- **Novel**
+- **Novel-Philosophy-Science...**
 
   - Cosmos by Carl Sagan
   - Notes from Underground by Fyodor Dostoyevsky
@@ -11,6 +11,10 @@
   - The Art of War by Sun Tzu
   - Finland the country of white lilies by Grigory Spiridonovich Petrov
   - A Confession by Leo Tolstoy
+  - The Republic by Plato
+  - The Alchemist by Paulo Coelho
+  - The Communist Manifesto by Karl Marx
+  - Pet Sematary by Stephen King
 
 - **Programming**
   - You Don't Know Js by Kyle Simpson
