@@ -10,6 +10,10 @@
 
 - You Don't Know Js by Kyle Simpson
 - Adaptive Code: Agile Coding with Design Patterns and SOLID Principles by Gary McLean Hall
+- Learning React Modern Patterns for Developing React Apps by Alex Banks and Eve Porcello
+- Head First Design Patterns by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+- Refactoring: Improving the Design of Existing Code by Martin Fowler
+- Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 
 ## Will Read
 
