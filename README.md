@@ -26,6 +26,7 @@
   - CSS Pocket Reference: Visual Presentation for the Web by Eric A. Meyer
   - CSS in Depth by Keith J. Grant
   - Refactoring UI by Steve Schoger, Adam Wathan
+  - Andrew Hunt, David Thomas - The Pragmatic Programmer From Journeyman to Master-addison-wesley
 
 ## Will Read
 
@@ -50,6 +51,7 @@
   - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker by Frank Zammetti
   - Mastering JavaScript Functional Programming by Federico Kereki
   - Dependency Injection Principles, Practices, and Patterns by Mark Seemann, Steven van Deursen
-
   - Mario Casciaro, Luciano Mammino - Node.js Design Patterns, 3rd Edition-Packt Publishing
-  - Andrew Hunt, David Thomas - The Pragmatic Programmer From Journeyman to Master-addison-wesley
+
+  - Kent Beck - Test-Driven Development
+  - Eric Elliott - Composing Software
