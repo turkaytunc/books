@@ -56,3 +56,4 @@
 
   - Eric Elliott - Composing Software
   - Dan Vanderkam - Effective TypeScript - 62 Specific Ways to Improve Your TypeScript-O'Reilly Media
+  - Gene Kim, George Spafford, Kevin Behr - The Phoenix Project
