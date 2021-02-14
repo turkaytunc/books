@@ -55,3 +55,4 @@
   - Mario Casciaro, Luciano Mammino - Node.js Design Patterns, 3rd Edition-Packt Publishing
 
   - Eric Elliott - Composing Software
+  - Dan Vanderkam - Effective TypeScript - 62 Specific Ways to Improve Your TypeScript-O'Reilly Media
