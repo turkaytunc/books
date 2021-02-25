@@ -29,6 +29,9 @@
   - Andrew Hunt, David Thomas - The Pragmatic Programmer From Journeyman to Master-addison-wesley
   - Kent Beck - Test-Driven Development
   - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker by Frank Zammetti
+  - Gene Kim, George Spafford, Kevin Behr - The Phoenix Project
+  - Dan Vanderkam - Effective TypeScript - 62 Specific Ways to Improve Your TypeScript-O'Reilly Media
+
 
 ## Will Read
 
@@ -55,5 +58,6 @@
   - Mario Casciaro, Luciano Mammino - Node.js Design Patterns, 3rd Edition-Packt Publishing
 
   - Eric Elliott - Composing Software
-  - Dan Vanderkam - Effective TypeScript - 62 Specific Ways to Improve Your TypeScript-O'Reilly Media
-  - Gene Kim, George Spafford, Kevin Behr - The Phoenix Project
+  - Eric Evans - Domain-Driven Design
+  
+
