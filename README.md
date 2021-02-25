@@ -31,6 +31,7 @@
   - Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker by Frank Zammetti
   - Gene Kim, George Spafford, Kevin Behr - The Phoenix Project
   - Dan Vanderkam - Effective TypeScript - 62 Specific Ways to Improve Your TypeScript-O'Reilly Media
+  - Alexander Shvets - Dive Into Refactoring
 
 
 ## Will Read
@@ -59,5 +60,5 @@
 
   - Eric Elliott - Composing Software
   - Eric Evans - Domain-Driven Design
-  
+  - Alexander Shvets - Dive Into Design Patterns
 
