@@ -32,6 +32,7 @@
   - Gene Kim, George Spafford, Kevin Behr - The Phoenix Project
   - Dan Vanderkam - Effective TypeScript - 62 Specific Ways to Improve Your TypeScript-O'Reilly Media
   - Alexander Shvets - Dive Into Refactoring
+  - Jay McGavren - Head First Go_ A Brain-Friendly Guide-O'Reilly Media (2019)
 
 
 ## Will Read
