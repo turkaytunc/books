@@ -34,6 +34,7 @@
   - Alexander Shvets - Dive Into Refactoring
   - Jay McGavren - Head First Go_ A Brain-Friendly Guide
   - Bethany Griggs - Node Cookbook
+  - Jon Bodner - Learning Go: An Idiomatic Approach to Real-World Go Programming
 
 
 ## Will Read
