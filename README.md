@@ -65,4 +65,5 @@
   - Eric Elliott - Composing Software
   - Eric Evans - Domain-Driven Design
   - Alexander Shvets - Dive Into Design Patterns
+  - Michael Geers - Micro Frontends in Action
 
